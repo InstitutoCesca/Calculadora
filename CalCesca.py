@@ -1,3 +1,4 @@
+#coded by: Instituto Cesca
 from Tkinter import*
 def suma():
 	total=int(entrada1.get())+int(entrada2.get())
